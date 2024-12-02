@@ -25,6 +25,7 @@
         DBPassword=password
 
     systemctl restart zabbix-server zabbix-agent apache2
+    
     systemctl enable zabbix-server zabbix-agent apache2
 
 
@@ -33,3 +34,5 @@
 *Установите Zabbix Agent на два хоста.*
 
 ## Задание 3.
+
+*Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.*
