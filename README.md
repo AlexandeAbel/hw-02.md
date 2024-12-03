@@ -33,5 +33,5 @@
 
 *Установите Zabbix Agent на два хоста.*
 
-![Configuration > Hosts](https://github.com/AlexandeAbel/hw-02/blob/main/img/2.1.png)
+![Configuration>Hosts](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.1.png)
 
