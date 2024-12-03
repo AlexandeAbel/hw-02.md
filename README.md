@@ -41,7 +41,7 @@
 
 *Monitoring > Latest data* 
 ![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.jpg)
-![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.1.gpj)
+![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.1.jpg)
 
 *Использованные команды:*
 sudo cat /var/log/zabbix/zabbix_agentd.log 
