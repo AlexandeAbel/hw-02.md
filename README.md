@@ -33,7 +33,5 @@
 
 *Установите Zabbix Agent на два хоста.*
 
-## Задание 3.
-
-*Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.*
+![Configuration > Hosts](https://github.com/AlexandeAbel/hw-02/blob/main/img/2.1.jpg)
 
