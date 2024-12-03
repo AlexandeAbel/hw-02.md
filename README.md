@@ -32,6 +32,15 @@
 ## Задание 2.
 
 *Установите Zabbix Agent на два хоста.*
+    *Configuration > Hosts*
+    ![Configuration>Hosts](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.1.png)
+    *Zabbix-Agent log*
+    ![zabbix agent](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.2.1.png)
+    ![zabbix agent](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.2.png)
+    *Monitoring > Latest data* 
+    ![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.png)
+    ![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.1.png)
+    *Использованные команды:*
+    sudo cat /var/log/zabbix/zabbix_agentd.log 
 
-![Configuration>Hosts](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.1.png)
 
