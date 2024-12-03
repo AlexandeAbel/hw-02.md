@@ -36,12 +36,12 @@
 ![Configuration>Hosts](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.1.png)
 
 *Zabbix-Agent log*
-![zabbix agent](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.2.1.png)
-![zabbix agent](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.2.png)
+![zabbix agent](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.2.1.jpg)
+![zabbix agent](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.2.jpg)
 
 *Monitoring > Latest data* 
-![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.png)
-![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.1.png)
+![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.jpg)
+![Latest-data](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/2.3.1.gpj)
 
 *Использованные команды:*
 sudo cat /var/log/zabbix/zabbix_agentd.log 
