@@ -28,6 +28,8 @@
     
     systemctl enable zabbix-server zabbix-agent apache2
 
+![zabbix-main](https://github.com/AlexandeAbel/hw-02.md/blob/main/img/1.1.jpg)
+
 
 ## Задание 2.
 
